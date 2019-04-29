@@ -1,5 +1,5 @@
 applications:
-- name: tracker-registration
+- name: tracker-registration-debajyoti
   path: ./applications/registration-server/build/libs/registration-server.jar
   routes:
   - route: registration-pal-debajyoti.apps.dev.pcf-aws.com

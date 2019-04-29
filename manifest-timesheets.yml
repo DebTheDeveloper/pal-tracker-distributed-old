@@ -1,5 +1,5 @@
 applications:
-- name: tracker-timesheets
+- name: tracker-timesheets-debajyoti
   path: ./applications/timesheets-server/build/libs/timesheets-server.jar
   routes:
   - route: timesheets-pal-debajyoti.apps.dev.pcf-aws.com

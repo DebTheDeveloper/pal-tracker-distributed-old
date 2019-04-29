@@ -1,5 +1,5 @@
 applications:
-- name: tracker-allocations
+- name: tracker-allocations-debajyoti
   path: ./applications/allocations-server/build/libs/allocations-server.jar
   routes:
   - route: allocations-pal-debajyoti.apps.dev.pcf-aws.com

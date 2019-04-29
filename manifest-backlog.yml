@@ -1,5 +1,5 @@
 applications:
-- name: tracker-backlog
+- name: tracker-backlog-debajyoti
   path: ./applications/backlog-server/build/libs/backlog-server.jar
   routes:
   - route: backlog-pal-debajyoti.apps.dev.pcf-aws.com
