@@ -1,5 +1,5 @@
 databases {
-    devDatabase = "tracker_timesheets_dev"
+    devDatabase = "tracker_timesheets_dev_debajyoti"
     testDatabase = "tracker_timesheets_test_debajyoti"
     cfDatabase = "tracker-timesheets-database"
     cfApp = "tracker-timesheets-debajyoti"

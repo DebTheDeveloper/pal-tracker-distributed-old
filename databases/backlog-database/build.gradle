@@ -1,5 +1,5 @@
 databases {
-    devDatabase = "tracker_backlog_dev"
+    devDatabase = "tracker_backlog_dev_debajyoti"
     testDatabase = "tracker_backlog_test_debajyoti"
     cfDatabase = "tracker-backlog-database"
     cfApp = "tracker-backlog-debajyoti"
